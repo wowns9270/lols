@@ -1,7 +1,6 @@
 const items = document.querySelector('.items');
 const btn = document.querySelector('.check');
 const nick = document.querySelector('.search-bar');
-const API_KEY = 'RGAPI-989d47e5-989d-4cb4-8379-ca61696a9826'
 let id ='';
 let acount_id ='';
 
